@@ -1,4 +1,4 @@
-# MIS500-Critical-Thinking-Module-6
+# MIS500-Data-Visualization-using-Tableau
 Tableau Assignment
 
 You will visit the Tableau Web site at https://public.tableau.com/en-us/s/resources (Links to an external site.) and watch the training videos.
